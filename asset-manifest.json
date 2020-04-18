@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/facedetector-app/static/css/main.b3925fbb.chunk.css",
+    "main.css": "/facedetector-app/static/css/main.d05a943c.chunk.css",
     "main.js": "/facedetector-app/static/js/main.96ec9d91.chunk.js",
     "main.js.map": "/facedetector-app/static/js/main.96ec9d91.chunk.js.map",
     "runtime-main.js": "/facedetector-app/static/js/runtime-main.53c9fc9d.js",
@@ -9,10 +9,10 @@
     "static/js/2.ba4efc15.chunk.js": "/facedetector-app/static/js/2.ba4efc15.chunk.js",
     "static/js/2.ba4efc15.chunk.js.map": "/facedetector-app/static/js/2.ba4efc15.chunk.js.map",
     "index.html": "/facedetector-app/index.html",
-    "precache-manifest.d8eb7f910dca733f87f3200a1b431401.js": "/facedetector-app/precache-manifest.d8eb7f910dca733f87f3200a1b431401.js",
+    "precache-manifest.44291b2ec9a586b4c656211c8269d089.js": "/facedetector-app/precache-manifest.44291b2ec9a586b4c656211c8269d089.js",
     "service-worker.js": "/facedetector-app/service-worker.js",
     "static/css/2.3b6f1bda.chunk.css.map": "/facedetector-app/static/css/2.3b6f1bda.chunk.css.map",
-    "static/css/main.b3925fbb.chunk.css.map": "/facedetector-app/static/css/main.b3925fbb.chunk.css.map",
+    "static/css/main.d05a943c.chunk.css.map": "/facedetector-app/static/css/main.d05a943c.chunk.css.map",
     "static/js/2.ba4efc15.chunk.js.LICENSE.txt": "/facedetector-app/static/js/2.ba4efc15.chunk.js.LICENSE.txt",
     "static/media/Dimianni.svg": "/facedetector-app/static/media/Dimianni.8fe6c552.svg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.53c9fc9d.js",
     "static/css/2.3b6f1bda.chunk.css",
     "static/js/2.ba4efc15.chunk.js",
-    "static/css/main.b3925fbb.chunk.css",
+    "static/css/main.d05a943c.chunk.css",
     "static/js/main.96ec9d91.chunk.js"
   ]
 }
