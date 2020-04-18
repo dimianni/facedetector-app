@@ -1,6 +1,6 @@
 {
   "name": "brain",
-  "homepage": "https://dimianni.github.io/dimianni-facedetector",
+  "homepage": "https://dimianni.github.io/facedetector-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
