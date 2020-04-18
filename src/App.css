@@ -1,38 +1,37 @@
-.app{
-    position: relative;
+.app {
+  position: relative;
   min-height: 100vh;
 }
 
 .footer {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    background-color: #feebef;
-    color: #24292e;
-    height: 50px;
-    font-size: 12px;
-    font-weight: 300;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #feebef;
+  color: #24292e;
+  height: 50px;
+  font-size: 12px;
+  font-weight: 300;
 }
 
 .footer a {
-    text-decoration: none;
-    color: #24292e;
-    font-size: 12px;
-    font-weight: normal;
+  text-decoration: none;
+  color: #24292e;
+  font-size: 12px;
+  font-weight: normal;
 }
 
-.welcomeNImg{
+.welcomeNImg {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
 }
-
 
 .particles {
   position: fixed;
@@ -346,6 +345,15 @@
   }
 }
 
+@media (max-width: 460px) {
+  .c2 {
+    width: 300px;
+  }
+  .inputs {
+    width: 200px;
+  }
+}
+
 @media (max-width: 440px) {
   .wrapper {
     width: 95%;
@@ -359,6 +367,19 @@
   }
   .img-wrapper {
     width: 320px;
+  }
+}
+
+@media (max-width: 365px) {
+  .logo {
+    width: 140px;
+    height: 40px;
+  }
+  .navEl {
+    font-size: 14px;
+  }
+  .signup1{
+    font-size: 18px;
   }
 }
 
