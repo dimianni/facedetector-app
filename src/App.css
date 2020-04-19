@@ -112,6 +112,7 @@
   background: #f4f4f4;
   color: #737272;
   font-size: 16px;
+  line-height: normal;
 }
 .btn {
   width: 200px;
@@ -177,6 +178,13 @@
   background: #f4f4f4;
   color: #737272;
   font-size: 16px;
+  line-height: normal;
+   vertical-align: middle;
+}
+
+.imageInput::placeholder, .inputs::placeholder{
+  vertical-align: middle;
+   font-size: 16px;
 }
 
 .imageBtn {
