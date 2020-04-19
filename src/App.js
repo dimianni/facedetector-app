@@ -125,7 +125,7 @@ const particlesParams = {
 
 
 const initState = {
-  input: '',
+  input: null,
   imageUrl: '',
   box: {},
   route: 'signin',

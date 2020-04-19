@@ -1,6 +1,5 @@
 import React from 'react';
-import * as Scroll from 'react-scroll';
-import { Link, Element, Events, animateScroll as scroll, scrollSpy, scroller } from 'react-scroll'
+import { Link } from 'react-scroll'
 
 const ImageInputForm = ({ onInputChange, onButtonSubmit, name }) => {
     return (
@@ -16,7 +15,7 @@ const ImageInputForm = ({ onInputChange, onButtonSubmit, name }) => {
             </p>
             <p className='preInput'>Please insert a link to a picture:</p>
             <div className='imageInputCont'>
-                <input type="text" className='imageInput' placeholder="Link . . ." onChange={onInputChange} onFocus={(e) => e.target.placeholder = ""} />
+                <input type="text" className='imageInput' placeholder="Link . . ." onChange={onInputChange} onFocus={(e) => e.target.value = ""} />
                 <Link to="img" smooth={true} offset={50} duration={700}>
                     <button className='imageBtn' onClick={onButtonSubmit}>Detect</button>
                 </Link>
