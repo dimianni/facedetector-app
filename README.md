@@ -1,9 +1,9 @@
 # Face Detection App
 
-This is one of my personal projects. It is a web app which can detect a face on the image inserted. There is a register/signin feature too. Quick technical facts about the project:
+It is a web app which can detect a face on the image inserted. There is a register/signin feature too. Quick technical facts about the project:
 
 - Frontend part of the project is built with [Create React App](https://create-react-app.dev/).
-- Backend is realized with [Node.js](https://nodejs.org/en/) and is hosted on [Heroku](https://www.heroku.com/home). GitHub repo with the code can be found [here](https://github.com/dimianni/dimianniFaceDetectorApi).
+- Backend is realized with [Node.js](https://nodejs.org/en/) and is hosted on [Heroku](https://www.heroku.com/home). GitHub repo with more details and the code can be found [here](https://github.com/dimianni/dimianniFaceDetectorApi).
 
 ## To clone the repo, run the following command:
 
