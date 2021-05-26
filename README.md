@@ -4,7 +4,6 @@ This is one of my personal projects. It is a web app which can detect a face on 
 
 - Frontend part of the project is built with [Create React App](https://create-react-app.dev/).
 - Backend is realized with [Node.js](https://nodejs.org/en/) and is hosted on [Heroku](https://www.heroku.com/home). GitHub repo with the code can be found [here](https://github.com/dimianni/dimianniFaceDetectorApi).
-- The app was deployed with gh-pages. More information on the process can be found [here](https://create-react-app.dev/docs/deployment/#github-pages).
 
 ## To clone the repo, run the following command:
 
